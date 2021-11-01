@@ -84,8 +84,5 @@ We notice that Group & Layer normalization perform well in lower epochs, all 3 e
 
 
 
-### Our Team
-- [Madhu Charan](https://github.com/madhucharan)
+### Team
 - [Sijuade](https://github.com/cydal)
-- [Siddharth Aggarwal](https://github.com/aggarwalsiddharth)
-- [Deepika](https://github.com/dpkeee)
